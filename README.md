@@ -33,4 +33,10 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 Siva Chittajallu
 
+## More
+
+This simulation accompanies a post in my Substack series *The Market Is an Auction*, which explains how support and resistance emerge from the order book:
+
+**[Shadows on the Wall: Where Support and Resistance Come From](https://sivachittajallu.substack.com/p/shadows-on-the-wall-where-support)**
+
 If you use or adapt this in your own work, a citation to this repository is appreciated.
